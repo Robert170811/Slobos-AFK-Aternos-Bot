@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "plasmaworld-P3Bm.aternos.me:11268",
+    "ip": "plasmaworld-P3Bm.aternos.me",
     "port": 11268,
     "version": "1.21.11",
     "try-creative": false
